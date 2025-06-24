@@ -1,8 +1,8 @@
 class Tatuin < Formula
   desc "Task Aggregator TUI for N providers"
   homepage "https://github.com/panter-dsd/tatuin"
-  url "https://github.com/panter-dsd/tatuin/archive/refs/tags/v0.16.0.tar.gz"
-  sha256 "b96c676a8ab948926d47517b2b6c9b2d02bbb3df3c28f88fcfce5d9984745e7c"
+  url "https://github.com/panter-dsd/tatuin/archive/refs/tags/v0.17.0.tar.gz"
+  sha256 "c2993bf62242625b6b5be980169c57b148d1189890908a787a206be846a58755"
   license "MIT"
 
   depends_on "rust" => :build
